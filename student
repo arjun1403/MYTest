@@ -1,7 +1,12 @@
 Student
 here the student data
 rollno:-
+<<<<<<< HEAD
 student name:-
 student marks:=
 this is modified content
 ranks:-
+=======
+
+These lines enough.
+>>>>>>> 82e217cb63ee1facfe0cf73c1e0647a334a29b35
