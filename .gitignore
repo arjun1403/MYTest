@@ -1,0 +1,12 @@
+*.log
+ /tmp
+ /dist
+
+
+
+
+ *.log.txt
+/tmp
+/dist
+.txt
+* .txt
