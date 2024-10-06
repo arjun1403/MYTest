@@ -1,2 +1,5 @@
 hello
 how are you c file .
+hi 
+bye 
+HOw are you?
